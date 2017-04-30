@@ -245,6 +245,11 @@ public class CalComp extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    /*
+    operations on adding .. 
+    1 problem = double press dosnt work 
+    2 pr
+    */
     private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField1ActionPerformed
@@ -362,7 +367,9 @@ public class CalComp extends javax.swing.JFrame {
         jTextField1.setText("");
         operations = "*";
     }//GEN-LAST:event_Btn17ActionPerformed
-
+    /*
+    adding operations to symbols
+    */
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
         
